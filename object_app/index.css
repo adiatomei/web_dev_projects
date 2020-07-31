@@ -1,0 +1,63 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+
+body {
+	background-color: #d4d4d4;
+}
+
+.userForm {
+	width: 40em;
+	height: 37em;
+	margin: 0 auto;
+	margin-top: 150px;
+    background-color: #15a7e8;
+	border-radius: 20px;
+	text-align: center;
+
+}
+
+h2{
+   padding-top: 48px;
+   color: #d4f2ff;
+
+}
+
+.tableForm {
+	width: 25em;
+	margin: 0 auto;
+	margin-top: 5em;
+	border-spacing: 2em;
+	color: #ffffff;
+}
+
+.tableForm input {
+	height: 2em;
+	width: 25em;
+	border: none;
+	border-radius: 2px;
+	color: #28bdff;
+	font-weight: 700;
+}
+
+.userForm button {
+	margin-top: 10px;
+	padding: 0.7em 1em;
+	background-color: #97d056;
+	font-family : "Times New Roman", serif;
+	font-weight: 900;
+	font-size: 18px;
+	border: none;
+	border-radius: 3px;
+	color: #fffefe;
+
+}
+
+.userForm button:hover {
+	filter: brightness(130%);
+	color: #675959;
+}
+
+
+

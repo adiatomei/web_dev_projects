@@ -1,0 +1,81 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+body {
+   background: url("wordBackG.png") no-repeat center top;
+}
+
+.header {
+    background-color: rgba(154, 234, 226, 0.8);
+}
+
+.topBox {
+	margin-left: 15%;
+	margin-top: 20px;
+	font-family: 'Merriweather', serif;
+
+}
+
+.firstW {
+	background-color: #3c1c1c;
+	font-family: 'Acme', cursive;
+}
+
+.secondW {
+	background-color: #ff1100;
+}
+
+.thirtW {
+	background-color: #111179;
+}
+
+.header .topBox h2 {
+	color: #dbefff;
+	border-bottom: 5px outset #a79e9e;
+	border-right: 5px outset #a79e9e;  
+
+}
+.boxMidle {
+	margin-top: 200px;
+	background-color: rgba(189, 187, 187, 0.9);
+	height: 500px;
+	border-radius: 5px;
+} 
+
+.inputBox {
+	margin: 50px 0;
+}
+
+.inputBox input {
+	
+	width: 30%;
+	text-align: center;
+    margin: 0 auto;
+	margin-top: 30px;
+	display: block;
+	border-radius: 5px;
+}	
+
+
+.text {
+
+	overflow:auto;
+    background: #d0917b;
+	width: 50%;
+    height: 200px;
+    border-radius: 10px;
+	
+}
+
+.buton {
+   margin-top: 50px;
+}
+
+.list {
+  color: #0366b5;
+}
+
+.remove{
+  margin-left: 2em;
+}

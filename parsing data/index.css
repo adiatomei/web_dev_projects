@@ -1,0 +1,45 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+ 
+body {
+	background: url("anazilerpic.png") no-repeat center top;
+}
+
+.header {
+	margin: 0 auto;
+	color: #c8e4fb;
+	
+}
+
+.bartop {
+	background-color: rgba(10, 8, 7, 0.5);
+}
+
+
+
+.b {
+
+	margin: 0 auto;
+	margin-top: 150px;
+}
+
+.b button {
+	background-color: rgba(50, 25, 20, 0.5);
+	border-style: none;
+	width: 100%;
+}
+
+.boxTable {
+	margin: 0 auto;
+	border-radius: 5px;
+}
+
+.color {
+	background-color: rgba(99, 171, 204, 0.8);
+	border-radius: 5px;
+}
+
+
+

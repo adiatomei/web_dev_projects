@@ -1,0 +1,31 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+body {
+	background: url("people.png") no-repeat center top;
+}
+
+.tabel {
+	margin: 0 auto;
+	margin-top: 100px;
+	font-size: 20px;
+	background-color: #9d9da0;
+	color: #efefef;
+	border-radius: 8px;
+}
+
+.header {
+	margin-bottom: 20px;
+	margin-top: 30px;
+	background-color: rgba(216, 225, 232, 0.9); 
+    color: #842f10;
+    
+}
+
+.buttons {
+	margin-top: 40px; 
+
+}
+

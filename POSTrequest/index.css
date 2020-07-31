@@ -1,0 +1,57 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background: url("back.png") no-repeat center top;
+	
+}
+
+.header {
+	height: 15vh;
+	background-color: #b3b3ffd4;
+
+}
+
+.head {
+	z-index: 20;
+    margin-bottom: -22px;
+    color: #e6e0e0;
+    background-color:#ff7575;
+}
+
+
+.BoxContent {
+	display: table;
+    height:  70vh;
+    background-color: #2f71a5e6;
+    border-radius: 15px;
+}
+
+.Boxinp {
+	height: 20%;
+
+}
+
+.inp {
+	width: 30%;
+	border-radius: 10px;
+	outline: none;
+
+}
+
+.Boxresult{
+	height: 60%;
+}
+
+.result {
+	border-radius: 10px;
+	height: 70%;
+	background-color: white;
+}
+
+.Boxaction {
+	height:20%;
+}
+

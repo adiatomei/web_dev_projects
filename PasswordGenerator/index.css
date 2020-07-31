@@ -1,0 +1,95 @@
+* {
+	padding: 0;
+	margin: 0;
+
+
+}
+
+body {
+	background: url("background.png") no-repeat center top;
+}
+
+h1 {
+	
+	font-family: "Oswald";
+	font-weight: 700;
+	color: #0fadf5;
+	width: 11%;
+	margin: 0 auto;
+	
+	
+}
+
+h3 {
+	color: #d8caca;
+}
+
+.passBox {
+	width: 50%;
+    font-family: 'PT Serif', serif;
+
+}
+
+.settingBox {
+	width: 56%;
+	background-color: rgba(26, 38, 47, 0.7);
+	padding: 30px;
+	border-radius: 40px;
+
+}
+
+p {
+	display: inline-block;
+	margin-bottom: 20px;
+	color: #e6ded1;
+}
+
+input {
+	float: right;
+	margin-bottom: 20px;
+	border-radius: 5px;
+
+}
+
+#generate {
+	display: block;
+	margin: 0 auto;
+	background-color: #462727;
+	border: none;
+	padding: 10px 20px;
+	color: #ffc4b1;
+	border-radius: 10px;
+	cursor: pointer;
+	font-size: 15px;
+}
+
+#regenerate {
+    display: block;
+	margin: 0 auto;
+	background-color: #462727;
+	border: none;
+	padding: 10px 20px;
+	color: #ffc4b1;
+	border-radius: 10px;
+	cursor: pointer;
+	font-size: 15px;
+
+}
+
+
+
+#result {
+	margin: 0 37% ;
+	
+	
+}
+
+#pass {
+   margin: 0 45% 20px 46%;
+   color: #05ca0d;
+}
+
+
+.center {
+	margin: 100px auto;
+}
